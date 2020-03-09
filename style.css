@@ -1,0 +1,22 @@
+#mainTitle{
+    text-align: center;
+}
+header{
+    margin-bottom: 10px;
+}
+
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: linen;
+    padding: 10px;
+    margin: 10px;
+    height: 550px;
+    width: 500px;
+}
+article{
+    
+    padding: 10px;
+
+}
