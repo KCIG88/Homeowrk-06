@@ -14,9 +14,13 @@ section{
     margin: 10px;
     height: 550px;
     width: 500px;
+    display: block;
 }
 article{
     
     padding: 10px;
 
+}
+.wrapper{
+    float: right;
 }
